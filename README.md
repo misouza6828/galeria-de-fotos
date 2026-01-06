@@ -2,14 +2,14 @@
 
 Projeto desenvolvido como parte de um trabalho prático de front-end, com o objetivo de criar uma aplicação web simples de galeria de imagens utilizando HTML, CSS e JavaScript puro.
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 A aplicação exibe uma galeria de fotos organizada em cartões, contendo imagem e título.  
 Também possui um campo de pesquisa que permite filtrar as fotos pelo nome, facilitando a navegação do usuário.
 
 O projeto utiliza apenas tecnologias básicas da web, sem frameworks, conforme solicitado no enunciado.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Exibição de galeria de imagens
 - Filtro de fotos por nome (campo de pesquisa)
@@ -36,7 +36,7 @@ galeria-de-fotos/
 ├── foto3.jpg
 └── ...
 
-## ▶️ Como Executar o Projeto
+##  Como Executar o Projeto
 1. Clone o repositório:
 git clone https://github.com/misouza6828/galeria-de-fotos.git
 
